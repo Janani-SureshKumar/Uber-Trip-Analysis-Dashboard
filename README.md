@@ -64,8 +64,8 @@ The report is based on two primary tables:
 ---
 
 ## 📬 Contact  
-For any questions or feedback, feel free to connect:  
-🔗 **LinkedIn:** https://linkedin.com/in/janani-sk/  
-Or raise an issue in this repository.
+For any questions or feedback, feel free to connect: [LinkedIn](https://linkedin.com/in/janani-sk)
+            Or
+raise an issue in this repository.
 
 ---
